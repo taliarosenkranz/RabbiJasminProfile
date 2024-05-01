@@ -16,12 +16,12 @@
         /* gradient color */
         --sky: linear-gradient(120deg, #a1c4fd 0%, #c2e9fb 100%);
         /*    Theme font-family   */
-        --Abel: 'Abel', cursive;
-        --Anton: 'Anton' cursive;
-        --Josefine: 'Josefin', cursive;
-        --Lexend: 'Lexend', cursive;
-        --Livvic: 'Livvic', cursive;
-        --Ubuntu: 'Ubuntu', cursive;
+        --Abel: 'Abel', sans-serif;
+        --Anton: 'Anton' sans-serif;
+        --Josefine: 'Josefin', sans-serif;
+        --Lexend: 'Lexend', sans-serif;
+        --Livvic: 'Livvic', sans-serif;
+        --Ubuntu: 'Ubuntu', sans-serif;
     }
     /* ------------ Global Classes ----------- */
     
